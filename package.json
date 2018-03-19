@@ -1,0 +1,14 @@
+{
+  "name": "tugas_1",
+  "version": "1.0.0",
+  "description": "project_pbd",
+  "main": "index.js",
+  "scripts": {
+    "start": "node tugas.js"
+  },
+  "author": "Enjang Dwi Kartini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
